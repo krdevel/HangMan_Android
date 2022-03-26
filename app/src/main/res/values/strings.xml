@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HangMan</string>
+    <string name="enter_a_letter">Enter a letter!</string>
+    <string name="version">Version 1</string>
+
+    <string name="guess_button_text">Guess</string>
+    <string name="play_again_button_text">Play Again</string>
+    <string name="quit_button_text">Quit</string>
+
+
+</resources>
